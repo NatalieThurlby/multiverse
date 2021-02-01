@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="737.28pt"
+    height="432pt"
+    viewBox="0 0 737.28 432">
+<defs>
+  <marker id="lineMarker0" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker0" fill="none">
+     <g id="lineMarker01" fill="none">
+      <g id="lineMarker01" fill="none">
+       <g id="Arrow1Send" fill="none">
+        <path id="path4157" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#a78cff" fill-rule="evenodd" stroke="#a78cff" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker1" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker1" fill="none">
+     <g id="lineMarker11" fill="none">
+      <g id="lineMarker11" fill="none">
+       <g id="Arrow1Sstart" fill="none">
+        <path id="path4154" transform="matrix(0.2 0 0 0.2 -1.3 -1)" fill="#a78cff" fill-rule="evenodd" stroke="#a78cff" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker2" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker2" fill="none">
+     <g id="lineMarker21" fill="none">
+      <g id="lineMarker21" fill="none">
+       <g id="Arrow1Send" fill="none">
+        <path id="path4157" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#a78cff" fill-rule="evenodd" stroke="#a78cff" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker3" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker3" fill="none">
+     <g id="lineMarker31" fill="none">
+      <g id="lineMarker31" fill="none">
+       <g id="Arrow1Send" fill="none">
+        <path id="path4157" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#a78cff" fill-rule="evenodd" stroke="#a78cff" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker4" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker4" fill="none">
+     <g id="lineMarker41" fill="none">
+      <g id="lineMarker41" fill="none">
+       <g id="Arrow1Send" fill="none">
+        <path id="path4157" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#a78cff" fill-rule="evenodd" stroke="#a78cff" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker5" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker5" fill="none">
+     <g id="lineMarker51" fill="none">
+      <g id="lineMarker51" fill="none">
+       <g id="Arrow1Send" fill="none">
+        <path id="path4157" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#a78cff" fill-rule="evenodd" stroke="#a78cff" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+ </defs>
+<path id="shape0" transform="matrix(0.40619029874032 0 0 0.40619029874032 227.411505174995 56.7641209387466)" fill="#f1e0ff" stroke="#a37eff" stroke-width="10.08" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M720 311.769L540 623.538L180 623.538L0 311.769L180 0L540 0Z"/><path id="shape01" transform="matrix(0.999999866783459 0 0 0.999999866783459 374.242118035692 94.0137776690116)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L74.0715 65.7837"/><path id="shape1" transform="matrix(0.887716404134587 0 0 0.924804777220988 287.998089805781 57.6946766678848)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M138.906 0L0 117.126"/><path id="shape2" transform="matrix(0.999999866783459 0 0 0.999999866783459 287.210649270358 167.885157045421)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker0)" krita:marker-fill-method="auto" d="M1.04643 0L0 70.1277"/><path id="shape3" transform="matrix(0.999999866783459 0 0 0.999999866783459 305.943107262937 152.583077406682)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L8.73106 8.50939"/><path id="shape4" transform="matrix(0.999999866783459 0 0 0.999999866783459 315.114425945143 160.961018087681)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-start="url(#lineMarker1)" krita:marker-fill-method="auto" d="M0 55.039L0 0"/><path id="shape5" transform="matrix(0.999999866783459 0 0 0.999999866783459 329.177670852496 133.121430109601)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L39.4623 40.4026"/><path id="shape6" transform="matrix(0.999999866783459 0 0 0.999999866783459 368.639964445602 174.140735994099)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker2)" krita:marker-fill-method="auto" d="M0 0L0 55.7475"/><path id="shape7" transform="matrix(0.999999866783459 0 0 0.999999866783459 420.829535632459 150.235752950883)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 10.9925L13.348 0"/><path id="shape8" transform="matrix(0.999999866783459 0 0 0.999999866783459 419.283791564821 186.086637743729)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker3)" krita:marker-fill-method="auto" d="M0 0L0 53.3919"/><path id="shape9" transform="matrix(0.999999866783459 0 0 0.999999866783459 448.618887528755 189.761727126176)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker4)" krita:marker-fill-method="auto" d="M0 0L0 25.2023"/><path id="shape10" transform="matrix(0.999999866783459 0 0 0.999999866783459 406.61600250638 142.186117761394)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 18.9064L22.0142 0"/><path id="shape11" transform="matrix(0.999999866783459 0 0 0.999999866783459 405.150630508294 162.782158004997)" fill="none" stroke="#a78cff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker5)" krita:marker-fill-method="auto" d="M0.785176 0L0 54.2538"/><text id="shape02" krita:useRichText="true" transform="matrix(0.999999912145448 0 0 0.999999912145448 280.79844178425 195.738276698273)" fill="#3a168f" font-family="Malayalam MN" font-size="48" font-size-adjust="0.398332" font-stretch="normal" kerning="0" letter-spacing="0" text-anchor="middle" word-spacing="0"><tspan x="101.4140625">Plausible</tspan></text>
+</svg>
