@@ -6,3 +6,7 @@ logo: images/logo.png
 latex:
   latex_documents:
     targetname: book.tex
+
+sphinx:
+  config:
+    html_favicon: images/logo.png

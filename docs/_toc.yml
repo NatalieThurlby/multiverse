@@ -2,7 +2,6 @@
 
 - part: Python User Guide
   chapters:
-  - file: content/py-user-guide/intro
   - file: content/py-user-guide/quickstart
   - file: content/py-user-guide/installation
   - file: content/py-user-guide/tutorials/intro
@@ -11,7 +10,6 @@
 
 - part: R User Guide
   chapters:
-  - file: content/r-user-guide/intro
   - file: content/r-user-guide/quickstart
   - file: content/r-user-guide/installation
   - file: content/r-user-guide/tutorials/intro
