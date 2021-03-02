@@ -1,8 +1,0 @@
-# Book settings
-title: documentation
-author: Natalie Thurlby
-logo: images/logo.png
-
-latex:
-  latex_documents:
-    targetname: book.tex
