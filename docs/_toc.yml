@@ -1,0 +1,29 @@
+- file: content/intro
+
+- part: Python User Guide
+  chapters:
+  - file: content/py-user-guide/intro
+  - file: content/py-user-guide/quickstart
+  - file: content/py-user-guide/installation
+  - file: content/py-user-guide/tutorials/intro
+    sections:
+      - file: content/py-user-guide/tutorials/glms
+
+- part: R User Guide
+  chapters:
+  - file: content/r-user-guide/intro
+  - file: content/r-user-guide/quickstart
+  - file: content/r-user-guide/installation
+  - file: content/r-user-guide/tutorials/intro
+    sections:
+      - file: content/r-user-guide/tutorials/glms
+
+- part: Development
+  chapters:
+  - file: content/dev/intro
+  - file: content/dev/roadmap
+  - file: content/dev/changelog
+
+- part: Reference
+  chapters:
+    - file: content/ref/intro

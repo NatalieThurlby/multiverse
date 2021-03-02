@@ -3,7 +3,7 @@
 Welcome to the `plausible` repository! :sparkles:
 
 <p align="center">
-  <img height=200 src="plausible_logo.png">
+  <img height=200 src="docs/images/logo.png">
 </p>
 
 `plausible` is a Python package for multiverse analysis: a type of sensitivity analysis, which investiages the space of statistical models that plausibly describe the data.

@@ -1,0 +1,1 @@
+# Install `plausible` for R

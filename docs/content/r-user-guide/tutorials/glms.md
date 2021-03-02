@@ -1,0 +1,1 @@
+# Tutorial: Multiverse of a Generalised Linea Model in R with `plausible`
