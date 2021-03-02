@@ -6,7 +6,7 @@ Welcome to the `plausible` repository! :sparkles:
   <img height=200 src="docs/images/logo.png">
 </p>
 
-`plausible` is a Python package for multiverse analysis: a type of sensitivity analysis, which investiages the space of statistical models that plausibly describe the data.
+`plausible` is a Python package for multiverse analysis: a type of sensitivity analysis, which investigates the space of statistical models that plausibly describe the data.
 
 <!-- TODO: Link to sphinx and don't put much detail here
 ## Team
