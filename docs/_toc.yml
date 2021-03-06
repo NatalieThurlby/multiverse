@@ -7,6 +7,7 @@
   - file: content/py-user-guide/tutorials/intro
     sections:
       - file: content/py-user-guide/tutorials/glms
+  - file: content/py-user-guide/py-user-stories
 
 - part: R User Guide
   chapters:
@@ -15,6 +16,7 @@
   - file: content/r-user-guide/tutorials/intro
     sections:
       - file: content/r-user-guide/tutorials/glms
+  - file: content/r-user-guide/r-user-stories
 
 - part: Development
   chapters:
